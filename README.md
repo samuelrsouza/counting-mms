@@ -1,1 +1,3 @@
-# counting-mms
+## Processamento de Imagem para Contagem de Objetos
+O objetivo deste protocolo é construir um programa em python capaz de contar a quantidade de discos coloridos. A priori, a ideia consiste em definir e contar um aglomerado de doces MM’s, coloridos, a partir de suas cores azul, vermelho, amarelo, marrom e laranja. Previamente os modelos conceituais foram aplicados em uma representação gráfica dos objetos, pois não foi possível obter o material físico pela disponibilidade do mesmo. Porém, após serem realizados os testes nas representações, foi aplicado o processamento quando os objetos foram coletados.
+
